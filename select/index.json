@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ダンシング・ヒーロー（Eat You Up）",
+  "base_artist": "荻野目洋子",
+  "createdAt": "2026-01-13T10:57:31.257752Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ダンシング・ヒーロー(Eat You Up)",
+      "artist": "Yoko Oginome",
+      "has_synced": true,
+      "path": "select/01_ダンシング・ヒーロー(Eat_You_Up)_Yoko_Oginome.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ダンシング・ヒーロー (Eat You Up) (オリジナル・カラオケ)",
+      "artist": "荻野目洋子",
+      "has_synced": true,
+      "path": "select/02_ダンシング・ヒーロー_(Eat_You_Up)_(オリジナル・カラオケ)_荻野目洋子.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ダンシング・ヒーロー（Eat You Up） - Dancing Hero(Eat You Up)",
+      "artist": "Yoko Oginome",
+      "has_synced": true,
+      "path": "select/03_ダンシング・ヒーロー(Eat_You_Up)_-_Dancing_Hero(Eat_You_Up)_Yoko_Oginome.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ダンシング・ヒーロー(Eat You Up)",
+      "artist": "荻野目 洋子",
+      "has_synced": false,
+      "path": "select/pl_01_ダンシング・ヒーロー(Eat_You_Up)_荻野目_洋子.txt"
+    }
+  ]
+}
